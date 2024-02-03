@@ -1,0 +1,1 @@
+exe dosyasýnýn kýsayolunu buraya ekledim.eðer çalýþmazsa, gerçek exe dosyasý dist klasörünün içinde
